@@ -1,0 +1,13 @@
+{
+  "entryId": "cobblemon:blastoise",
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    },
+    {
+      "displayForm": "Clone-Mega",
+      "unlockForms": ["clone-mega"]
+    }
+  ]
+}

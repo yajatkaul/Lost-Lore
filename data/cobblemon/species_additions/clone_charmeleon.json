@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:charmeleon",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+      "pokedex": ["cobblemon.species.charmeleon-clone.desc"],
+	  "experienceGroup": "fast",
+	  "preEvolution": "charmander clone=true",
+      "evolutions": [
+		{
+		  "id": "charmeleonclone_charizardclone",
+		  "variant": "level_up",
+		  "result": "charizard clone=true",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [
+			"wingattack",
+			"airslash"
+		  ],
+		  "requirements": [
+			{
+			  "variant": "level",
+			  "minLevel": 36
+			}
+		  ]
+		}
+	  ]
+    }
+  ]
+}

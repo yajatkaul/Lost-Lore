@@ -1,0 +1,48 @@
+{
+  "target": "cobblemon:steelix",
+  "baseScale": 0.85,
+  "forms": [
+    {
+      "name": "Crystal",
+      "pokedex": ["cobblemon.species.steelix-crystal.desc"],
+      "aspects": ["crystal"],
+	    "abilities": [
+        "waterabsorb",
+        "h:waterabsorb"
+	    ]
+	  },
+    {
+      "name": "Crystal-Mega",
+      "primaryType": "steel",
+      "secondaryType": "ground",
+      "maleRatio": 0.5,
+      "height": 105,
+      "weight": 7400,
+      "pokedex": ["cobblemon.species.steelix-crystal-mega.desc"],
+      "labels": [
+        "gen6",
+        "mega"
+      ],
+      "aspects": [
+        "mega",
+        "crystal"
+      ],
+      "abilities": [
+        "waterabsorb",
+        "h:waterabsorb"
+      ],
+      "baseStats": {
+        "hp": 75,
+        "attack": 125,
+        "defence": 230,
+        "special_attack": 55,
+        "special_defence": 95,
+        "speed": 30
+      },
+      "baseExperienceYield": 214,
+      "dynamaxBlocked": true,
+      "evolutions": [],
+      "battleOnly": true
+    }
+  ]
+}

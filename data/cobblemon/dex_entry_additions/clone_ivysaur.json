@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:ivysaur",
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ]
+}

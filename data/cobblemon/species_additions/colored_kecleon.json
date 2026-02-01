@@ -1,0 +1,18 @@
+{
+  "target": "cobblemon:kecleon",
+  "forms": [
+    {
+      "name": "PMD",
+      "aspects": ["pmd"],
+      "pokedex": ["cobblemon.species.kecleon-pmd.desc"],
+      "maleRatio": 1.0
+    },
+    {
+      "name": "Reddy",
+      "aspects": ["reddy"],
+      "pokedex": ["cobblemon.species.kecleon-reddy.desc"],
+      "maleRatio": 1.0,
+      "catchRate": 50
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " M ",
+        "MUM",
+        " M "
+    ],
+    "key": {
+        "M": {
+            "item": "cobblemon:dark_gem"
+        },
+        "U": {
+            "item": "mega_showdown:rockium_z"
+        }
+    },
+    "result": {
+    "id": "lost_lore:dark_tyranitarium_z"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["zarude"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "lost_lore:ripped_cape",
+      "aspects": ["dada-cape"]
+    }
+  ]
+}

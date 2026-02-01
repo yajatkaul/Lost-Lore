@@ -1,0 +1,13 @@
+{
+    "entryId": "cobblemon:steelix",
+    "forms": [
+      {
+        "displayForm": "Crystal",
+        "unlockForms": ["Crystal"]
+      },
+      {
+        "displayForm": "Crystal-Mega",
+        "unlockForms": ["crystal-mega"]
+      }
+    ]
+}

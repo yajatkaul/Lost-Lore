@@ -1,0 +1,16 @@
+{
+  "minecraft": {
+    "particle_apply": "minecraft:crimson_spore",
+    "particle_revert": "minecraft:end_rod",
+    "sound_revert": {
+      "sound_id": "minecraft:block.beacon.deactivate"
+    },
+    "sound_apply": {
+      "sound_id": "minecraft:block.beacon.activate"
+    },
+    "animations": {
+      "animations_revert": ["cry"],
+      "animations_apply": ["cry"]
+    }
+  }
+}

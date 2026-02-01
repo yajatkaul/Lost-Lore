@@ -1,0 +1,13 @@
+{
+  "entryId": "cobblemon:rayquaza",
+  "forms": [
+    {
+      "displayForm": "Illusion",
+      "unlockForms": ["Illusion"]
+    },
+	{
+      "displayForm": "Illusion-Mega",
+      "unlockForms": ["Illusion-Mega"]
+    }
+  ]
+}

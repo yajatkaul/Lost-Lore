@@ -1,0 +1,9 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon:pokestar",
+  "sortOrder": 6,
+  "entries": [
+    "cobblemon:mt",
+    "cobblemon:mt2"
+  ]
+}

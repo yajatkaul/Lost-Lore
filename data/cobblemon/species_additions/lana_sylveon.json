@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:sylveon",
+  "forms": [
+    {
+      "name": "Lana",
+      "aspects": ["cosmetic_item-lana"],
+      "pokedex": ["cobblemon.species.sylveon-lana.desc"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:bulbasaur",
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ]
+}

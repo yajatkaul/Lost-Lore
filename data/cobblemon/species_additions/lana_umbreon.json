@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:umbreon",
+  "forms": [
+    {
+      "name": "Lana",
+      "aspects": ["cosmetic_item-lana"],
+      "pokedex": ["cobblemon.species.umbreon-lana.desc"]
+    }
+  ]
+}

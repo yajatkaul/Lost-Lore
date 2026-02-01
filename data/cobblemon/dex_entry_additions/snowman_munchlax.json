@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:munchlax",
+  "forms": [
+    {
+      "displayForm": "Snowman",
+      "unlockForms": ["snowman"]
+    }
+  ]
+}

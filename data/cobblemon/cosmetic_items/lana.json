@@ -1,0 +1,9 @@
+{
+  "pokemon": ["eevee", "espeon", "flareon", "glaceon", "jolteon", "leafeon", "sylveon", "umbreon", "vaporeon"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:shears",
+      "aspects": ["cosmetic_item-lana"]
+    }
+  ]
+}

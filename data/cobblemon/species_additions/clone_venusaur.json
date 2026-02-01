@@ -1,0 +1,234 @@
+{
+  "target": "cobblemon:venusaur",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+	    "pokedex": ["cobblemon.species.venusaur-clone.desc"],
+	    "experienceGroup": "fast",
+	    "preEvolution": "ivysaur clone=true",
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-75",
+              "JUMP": "40-60",
+              "SKILL": "10-40",
+              "SPEED": "30-55",
+              "STAMINA": "45-85"
+            }
+          }
+        },
+        "seats": [
+          {
+            "offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "poseOffsets": [
+              {
+                "offset": {
+                  "x": -0.011616215,
+                  "y": -1.3666525,
+                  "z": -0.28912854
+                },
+                "poseTypes": [
+                  "STAND"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.041163683,
+                  "y": -1.4031144,
+                  "z": -0.28313723
+                },
+                "poseTypes": [
+                  "WALK"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "HOVER"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "FLY"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "FLOAT"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.041163683,
+                  "y": -1.4031144,
+                  "z": -0.28313723
+                },
+                "poseTypes": [
+                  "SWIM"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "GLIDE"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+	  {
+      "name": "Clone-Mega",
+      "aspects": [
+		    "clone",
+		    "mega"
+	    ],
+      "pokedex": ["cobblemon.species.venusaur-mega-clone.desc"],
+	    "primaryType": "grass",
+	    "secondaryType": "poison",
+      "maleRatio": 0.875,
+      "height": 24,
+      "weight": 1555,
+	    "abilities": [
+		    "thickfat",
+		    "h:thickfat"
+	    ],
+      "baseStats": {
+        "hp": 80,
+        "attack": 100,
+        "defence": 123,
+        "special_attack": 122,
+        "special_defence": 120,
+        "speed": 80
+      },
+	    "experienceGroup": "fast",
+	    "baseExperienceYield": 315,
+      "dynamaxBlocked": true,
+      "evolutions": [],
+      "battleOnly": true,
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-75",
+              "JUMP": "40-60",
+              "SKILL": "10-40",
+              "SPEED": "30-55",
+              "STAMINA": "45-85"
+            }
+          }
+        },
+        "seats": [
+          {
+            "offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "poseOffsets": [
+              {
+                "offset": {
+                  "x": -0.011616215,
+                  "y": -1.3666525,
+                  "z": -0.28912854
+                },
+                "poseTypes": [
+                  "STAND"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.041163683,
+                  "y": -1.4031144,
+                  "z": -0.28313723
+                },
+                "poseTypes": [
+                  "WALK"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "HOVER"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "FLY"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "FLOAT"
+                ]
+              },
+              {
+                "offset": {
+                  "x": 0.041163683,
+                  "y": -1.4031144,
+                  "z": -0.28313723
+                },
+                "poseTypes": [
+                  "SWIM"
+                ]
+              },
+              {
+                "offset": {
+                  "x": -0.013957404,
+                  "y": -1.4664029,
+                  "z": -0.13922381
+                },
+                "poseTypes": [
+                  "GLIDE"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

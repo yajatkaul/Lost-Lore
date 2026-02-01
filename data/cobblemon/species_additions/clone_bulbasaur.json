@@ -1,0 +1,26 @@
+{
+  "target": "cobblemon:bulbasaur",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+      "pokedex": ["cobblemon.species.bulbasaur-clone.desc"],
+	  "experienceGroup": "fast",
+      "evolutions": [
+		{
+		  "id": "bulbasaurclone_ivysaurclone",
+		  "variant": "level_up",
+		  "result": "ivysaur clone=true",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [],
+		  "requirements": [
+			{
+			  "variant": "level",
+			  "minLevel": 16
+			}
+		  ]
+		}
+	  ]
+    }
+  ]
+}

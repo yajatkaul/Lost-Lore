@@ -1,0 +1,6 @@
+{
+  "keys": ["acerola"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

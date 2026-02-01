@@ -1,0 +1,13 @@
+{
+    "entryId": "cobblemon:mimikyu",
+    "forms": [
+      {
+        "displayForm": "Acerola",
+        "unlockForms": ["Acerola"]
+      },
+      {
+        "displayForm": "Busted-Acerola",
+        "unlockForms": ["Busted-Acerola"]
+      }
+    ]
+}

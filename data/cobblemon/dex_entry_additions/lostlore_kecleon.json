@@ -1,0 +1,13 @@
+{
+  "entryId": "cobblemon:kecleon",
+  "forms": [
+    {
+      "displayForm": "PMD",
+      "unlockForms": ["pmd"]
+    },
+    {
+      "displayForm": "Reddy",
+      "unlockForms": ["reddy"]
+    }
+  ]
+}

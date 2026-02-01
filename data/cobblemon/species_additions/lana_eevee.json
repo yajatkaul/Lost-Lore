@@ -1,0 +1,129 @@
+{
+  "target": "cobblemon:eevee",
+  "forms": [
+    {
+      "name": "Lana",
+      "aspects": ["cosmetic_item-lana"],
+      "pokedex": ["cobblemon.species.eevee-lana.desc"],
+	  "maleRatio": 1,
+      "evolutions": [
+		{
+		  "id": "sandy_jolteon",
+		  "variant": "item_interact",
+		  "result": "jolteon cosmetic_item-lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["thundershock"],
+		  "requiredContext": "cobblemon:thunder_stone"
+		},
+		{
+		  "id": "sandy_vaporeon",
+		  "variant": "item_interact",
+		  "result": "vaporeon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["watergun"],
+		  "requiredContext": "cobblemon:water_stone"
+		},
+		{
+		  "id": "sandy_flareon",
+		  "variant": "item_interact",
+		  "result": "flareon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["ember"],
+		  "requiredContext": "cobblemon:fire_stone"
+		},
+		{
+		  "id": "sandy_espeon",
+		  "variant": "level_up",
+		  "result": "espeon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["confusion"],
+		  "requirements": [		
+			{
+			  "variant": "friendship",
+			  "amount": 160
+			},
+			{
+			  "variant": "time_range",
+			  "range": "day"
+			}
+		  ]
+		},
+		{
+		  "id": "sandy_umbreon",
+		  "variant": "level_up",
+		  "result": "umbreon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [
+			"pursuit",
+			"snarl"
+		  ],
+		  "requirements": [		
+			{
+			  "variant": "friendship",
+			  "amount": 160
+			},
+			{
+			  "variant": "time_range",
+			  "range": "night"
+			}
+		  ]
+		},
+		{
+		  "id": "sandy_sylveon",
+		  "variant": "level_up",
+		  "result": "sylveon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [
+			"fairywind",
+			"disarmingvoice"
+		  ],
+		  "requirements": [		
+			{
+			  "variant": "friendship",
+			  "amount": 160
+			},
+			{
+			  "variant": "has_move_type",
+			  "range": "fairy"
+			}
+		  ]
+		},
+		{
+		  "id": "sandy_leafeon",
+		  "variant": "item_interact",
+		  "result": "leafeon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["razorleaf"],
+		  "requiredContext": "cobblemon:leaf_stone"
+		},
+		{
+		  "id": "sandy_glaceon",
+		  "variant": "item_interact",
+		  "result": "glaceon cosmetic_item=lana",
+		  "consumeHeldItem": false,
+		  "learnableMoves": ["icywind"],
+		  "requiredContext": "cobblemon:ice_stone"
+		}
+	  ]
+    },
+	{
+	  "name": "Lana-Gmax",
+	  "primaryType": "normal",
+	  "maleRatio": 1,
+	  "height": 180,
+	  "weight": 0,
+	  "pokedex": ["cobblemon.species.eevee-lana-gmax.desc"],
+	  "labels": [
+		"gen8",
+		"gmax"
+	  ],
+	  "aspects": [
+		"gmax",
+		"cosmetic_item-lana"
+	  ],
+	  "dynamaxBlocked": true,
+	  "evolutions": [],
+	  "battleOnly": true
+	}
+  ]
+}

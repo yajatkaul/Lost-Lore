@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:wartortle",
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ]
+}

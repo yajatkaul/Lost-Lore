@@ -1,0 +1,38 @@
+{
+  "target": "cobblemon:onix",
+  "forms": [
+    {
+      "name": "Crystal",
+      "pokedex": [
+        "cobblemon.species.onix-crystal.desc"
+      ],
+      "aspects": [
+		"crystal"
+	  ],
+	  "labels": [
+		"gen1",
+		"legendary"
+	  ],
+	  "abilities": [
+		"waterabsorb",
+		"waterabsorb",
+		"h:waterabsorb"
+	  ],
+	  "evolutions": [
+        {
+		  "id": "onixcrystal_steelixcrystal",
+	  	  "variant": "trade",
+		  "result": "steelix crystal=true",
+		  "consumeHeldItem": true,
+		  "learnableMoves": [],
+		  "requirements": [
+		    {
+			  "variant": "held_item",
+			  "itemCondition": "cobblemon:metal_coat"
+		    }
+		  ]
+	    }
+	  ]
+	}
+  ]
+}

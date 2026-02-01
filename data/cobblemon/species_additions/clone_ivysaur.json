@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:ivysaur",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+      "pokedex": ["cobblemon.species.ivysaur-clone.desc"],
+	  "experienceGroup": "fast",
+      "preEvolution": "bulbasaur clone=true",
+	  "evolutions": [
+		{
+		  "id": "ivysaurclone_venusaurclone",
+		  "variant": "level_up",
+		  "result": "venusaur clone=true",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [
+			"petaldance",
+			"petalblizzard"
+		  ],
+		  "requirements": [
+			{
+			  "variant": "level",
+			  "minLevel": 32
+			}
+		  ]
+		}
+	  ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ppp",
+        "psm",
+        "mmm"
+    ],
+    "key": {
+        "p": {
+            "item": "minecraft:pink_dye"
+        },
+        "s": {
+            "item": "cobblemon:silk_scarf"
+        },
+        "m": {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+    "result": {
+    "id": "lost_lore:ripped_cape"
+  }
+}

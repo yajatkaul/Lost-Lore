@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:sylveon",
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fusions": ["illusion"],
+  "pokemons": ["Mismagius"],
+  "main_pokemons": ["Rayquaza"],
+  "effect": "mega_showdown:illusion",
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["illusion=true"],
+      "aspect": {
+        "blacklist_aspects": [
+          ["mega"]
+        ]
+      }
+    },
+    "revert": {
+      "aspects": ["illusion=false"],
+      "aspect": {
+        "required_aspects": [
+          ["illusion"]
+        ]
+      }
+    }
+  }
+}

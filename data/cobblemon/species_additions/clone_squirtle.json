@@ -1,0 +1,26 @@
+{
+  "target": "cobblemon:squirtle",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+      "pokedex": ["cobblemon.species.squirtle-clone.desc"],
+	  "experienceGroup": "fast",
+      "evolutions": [
+		{
+		  "id": "squirtleclone_wartortleclone",
+		  "variant": "level_up",
+		  "result": "wartortle clone=true",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [],
+		  "requirements": [
+			{
+			  "variant": "level",
+			  "minLevel": 16
+			}
+		  ]
+		}
+	  ]
+    }
+  ]
+}

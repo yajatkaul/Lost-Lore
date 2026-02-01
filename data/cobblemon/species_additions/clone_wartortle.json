@@ -1,0 +1,29 @@
+{
+  "target": "cobblemon:wartortle",
+  "forms": [
+    {
+      "name": "Clone",
+      "aspects": ["clone"],
+      "pokedex": ["cobblemon.species.wartortle-clone.desc"],
+	  "experienceGroup": "fast",
+	  "preEvolution": "squirtle clone=true",
+      "evolutions": [
+		{
+		  "id": "wartortleclone_blastoiseclone",
+		  "variant": "level_up",
+		  "result": "blastoise clone=true",
+		  "consumeHeldItem": false,
+		  "learnableMoves": [
+			"flashcannon"
+		  ],
+		  "requirements": [
+			{
+			  "variant": "level",
+			  "minLevel": 36
+			}
+		  ]
+		}
+	  ]
+    }
+  ]
+}

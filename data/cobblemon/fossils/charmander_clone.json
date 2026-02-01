@@ -1,0 +1,7 @@
+{
+  "result": "charmander clone=true min_perfect_ivs=4",
+  "fossils": [
+    "minecraft:nether_star",
+    "cobblemon:charcoal_stick"
+  ]
+}

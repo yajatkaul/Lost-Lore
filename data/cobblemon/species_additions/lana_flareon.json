@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:flareon",
+  "forms": [
+    {
+      "name": "Lana",
+      "aspects": ["cosmetic_item-lana"],
+      "pokedex": ["cobblemon.species.flareon-lana.desc"]
+    }
+  ]
+}

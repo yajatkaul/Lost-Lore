@@ -1,0 +1,17 @@
+{
+  "pokemon": [
+    "blastoise",
+    "bulbasaur",
+    "charizard",
+    "charmander",
+    "charmeleon",
+    "ivysaur",
+    "pichu",
+    "pikachu",
+    "raichu",
+    "squirtle",
+    "venusaur",
+    "wartortle"
+  ],
+  "features": ["clone"]
+}

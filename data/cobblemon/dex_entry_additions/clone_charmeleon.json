@@ -1,0 +1,9 @@
+{
+  "entryId": "cobblemon:charmeleon",
+  "forms": [
+    {
+      "displayForm": "Clone",
+      "unlockForms": ["clone"]
+    }
+  ]
+}

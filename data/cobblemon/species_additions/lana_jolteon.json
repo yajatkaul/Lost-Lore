@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:jolteon",
+  "forms": [
+    {
+      "name": "Lana",
+      "aspects": ["cosmetic_item-lana"],
+      "pokedex": ["cobblemon.species.jolteon-lana.desc"]
+    }
+  ]
+}

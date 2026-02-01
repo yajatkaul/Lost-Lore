@@ -1,0 +1,7 @@
+{
+  "result": "squirtle clone=true min_perfect_ivs=4",
+  "fossils": [
+    "minecraft:nether_star",
+    "cobblemon:mystic_water"
+  ]
+}

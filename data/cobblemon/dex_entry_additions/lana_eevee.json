@@ -1,0 +1,13 @@
+{
+  "entryId": "cobblemon:eevee",
+  "forms": [
+    {
+      "displayForm": "Lana",
+      "unlockForms": ["lana"]
+    },
+	{
+      "displayForm": "Lana-Gmax",
+      "unlockForms": ["Lana-Gmax"]
+    }
+  ]
+}

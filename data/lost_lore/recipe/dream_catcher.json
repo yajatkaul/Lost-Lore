@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "D D",
+        " C ",
+        "DSD"
+    ],
+    "key": {
+        "S": {
+            "item": "cobblemon:spell_tag"
+        },
+        "C": {
+            "item": "minecraft:cobweb"
+        },
+        "D": {
+            "item": "minecraft:dark_oak_planks"
+        }
+    },
+    "result": {
+    "id": "lost_lore:dream_catcher"
+  }
+}
