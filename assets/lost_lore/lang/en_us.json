@@ -31,6 +31,8 @@
     "item.lost_lore.costume_box_lucario": "§5Costume Box (Lucario)§r",
     "item.lost_lore.dark_tyranitarium_z": "§5Dark Tyranitarium Z§r",
     "item.lost_lore.dream_catcher": "§5Dream Catcher§r",
+    "item.mega_showdown.dream_catcher.inactive": "§5Dream Catcher§r",
+    "item.mega_showdown.dream_catcher.charged": "§5Dream Catcher §o(Charged)§r",
     "item.lost_lore.green_scarf": "§5Green Scarf§r",
     "item.lost_lore.pledge_fragment": "§5Pledge Fragment§r",
     "item.lost_lore.red_scarf": "§5Red Scarf§r",

@@ -3,9 +3,6 @@
   
   "cobblemon.move.kaijucataclysm": "Kaiju Cataclysm",
   "cobblemon.move.kaijucataclysm.desc": "Removes all Terrain, raises defenses by 1 stage & makes the enemy flinch ",
-  
-  "item.mega_showdown.dream_catcher.inactive": "§5Dream Catcher§r",
-  "item.mega_showdown.dream_catcher.charged": "§5Dream Catcher §o(Charged)§r",
 
   "cobblemon.ui.pokedex.info.form.bulbasaur": "",
   "cobblemon.ui.pokedex.info.form.bulbasaur-clone": "Clone",
