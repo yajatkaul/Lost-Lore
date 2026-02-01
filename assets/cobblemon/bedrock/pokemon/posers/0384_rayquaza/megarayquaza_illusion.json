@@ -1,0 +1,115 @@
+{
+  "head": "head",
+  "portraitScale": 0.625,
+  "portraitTranslation": [-2.75, 4.4, 0],
+  "profileScale": 0.2,
+  "profileTranslation": [-0.3, 1.9 ,0],
+  "animations": {
+    "faint": "q.bedrock_primary('megarayquaza_illusion', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('megarayquaza_illusion', 'cry', q.curve('symmetrical_wide'))",
+    "physical": "q.bedrock_primary('megarayquaza_illusion', 'physical_attack', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('megarayquaza_illusion', 'special_attack', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('megarayquaza_illusion', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_walk')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ]
+    },
+    "hover": {
+      "poseName": "hover",
+      "poseTypes": [
+        "HOVER"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ],
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseName": "fly",
+      "poseTypes": [
+        "FLY"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('megarayquaza_illusion', 'blink')"
+      ],
+      "animations": [
+        "look",
+        "q.bedrock('megarayquaza_illusion', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('megarayquaza_illusion', 'sleep')"
+      ]
+    }
+  }
+}

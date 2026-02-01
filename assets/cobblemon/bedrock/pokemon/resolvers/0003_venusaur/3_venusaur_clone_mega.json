@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:venusaur",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "mega",
+        "clone"
+      ],
+      "model": "cobblemon:venusaurmega_clone.geo",
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "mega",
+        "shiny",
+        "clone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega_shiny.png"
+    }
+  ]
+}

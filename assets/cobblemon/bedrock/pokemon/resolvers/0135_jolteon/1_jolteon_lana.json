@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:jolteon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:jolteon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0135_jolteon/jolteon_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0135_jolteon/jolteon_lana_shiny.png"
+    }
+  ]
+}

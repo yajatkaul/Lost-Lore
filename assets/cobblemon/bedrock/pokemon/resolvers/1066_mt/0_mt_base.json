@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:mt",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mt",
+      "model": "cobblemon:mt.geo",
+      "texture": "cobblemon:textures/pokemon/1066_mt/mt.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1066_mt/mt_emissive.png",
+          "translucent": true,
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/1066_mt/mt_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "mega_showdown:red_orb"
+    },
+    {
+      "item": "cobblemon:poison_gem"
+    }
+  ],
+  "result": {
+    "id": "lost_lore:corrupted_wish"
+  }
+}

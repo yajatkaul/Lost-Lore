@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "dgy",
+    "yyy"
+  ],
+  "key": {
+    "d": {
+      "item": "mega_showdown:dark_tera_shard"
+    },
+    "g": {
+      "item": "cobblemon:dark_gem"
+    },
+    "y": {
+      "item": "cobblemon:black_apricorn"
+    }
+  },
+  "result": {
+    "id": "lost_lore:shadow_energy"
+  }
+}

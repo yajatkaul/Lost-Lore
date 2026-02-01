@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:mt2",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mt",
+      "model": "cobblemon:mt.geo",
+      "texture": "cobblemon:textures/pokemon/1067_mt2/mt2.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1067_mt2/mt2_emissive.png",
+          "translucent": true,
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/1067_mt2/mt2_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1067_mt2/mt2_shiny_emissive.png",
+          "translucent": true,
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

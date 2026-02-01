@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:rayquaza",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+		"illusion"
+      ],
+      "poser": "cobblemon:rayquaza_illusion",
+      "model": "cobblemon:rayquaza_illusion.geo",
+      "texture": "cobblemon:textures/pokemon/0384_rayquaza/rayquaza_illusion.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+		"illusion"
+      ],
+      "texture": "cobblemon:textures/pokemon/0384_rayquaza/rayquaza_illusion_shiny.png",
+      "layers": []
+    }
+  ]
+}

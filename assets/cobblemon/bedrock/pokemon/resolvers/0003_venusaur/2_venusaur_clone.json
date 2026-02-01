@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:venusaur",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["clone"],
+      "poser": "cobblemon:venusaur",
+      "model": "cobblemon:venusaur_male.geo",
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_male.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "clone"],
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_male_shiny.png"
+    }
+  ]
+}

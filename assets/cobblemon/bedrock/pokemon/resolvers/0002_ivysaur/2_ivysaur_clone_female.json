@@ -1,0 +1,14 @@
+{
+  "species": "cobblemon:ivysaur",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["female", "clone"],
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone_female.png"
+    },
+    {
+      "aspects": ["shiny", "female", "clone"],
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone_female_shiny.png"
+    }
+  ]
+}

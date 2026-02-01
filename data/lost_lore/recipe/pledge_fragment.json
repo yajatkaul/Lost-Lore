@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TRT",
+    "TTT"
+  ],
+  "key": {
+    "R": {
+      "item": "cobblemon:smooth_rock"
+    },
+    "T": {
+      "tag": "cobblemon:tumblestones"
+    }
+  },
+  "result": {
+    "id": "lost_lore:pledge_fragment"
+  }
+}

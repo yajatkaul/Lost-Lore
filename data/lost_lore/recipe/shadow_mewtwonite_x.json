@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "brb",
+    " i "
+  ],
+  "key": {
+    "c": {
+      "item": "cobblemon:dark_gem"
+    },
+    "r": {
+      "item": "mega_showdown:mewtwonite_x"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "lost_lore:shadow_mewtwonite_x"
+  }
+}

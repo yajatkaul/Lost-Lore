@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "cobblemon:electric_gem"
+    },
+    {
+      "item": "cobblemon:light_ball"
+    },
+    {
+      "item": "minecraft:clock"
+    }
+  ],
+"result": {
+    "id": "lost_lore:ancient_light_ball"
+  }
+}

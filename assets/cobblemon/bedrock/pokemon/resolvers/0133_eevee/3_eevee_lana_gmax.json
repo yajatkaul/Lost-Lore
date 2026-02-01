@@ -1,0 +1,39 @@
+{
+  "species": "cobblemon:eevee",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "gmax",
+        "cosmetic_item-lana"
+      ],
+      "poser": "cobblemon:eevee_gigantamax",
+      "model": "cobblemon:eevee_lana_gigantamax.geo",
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana_gigantamax.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_gigantamax_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "gmax",
+		    "cosmetic_item-lana",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana_gigantamax_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_gigantamax_emissive.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

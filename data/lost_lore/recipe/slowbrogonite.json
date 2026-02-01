@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "brb",
+    " i "
+  ],
+  "key": {
+    "c": {
+      "item": "cobblemon:galarica_cuff"
+    },
+    "r": {
+      "item": "mega_showdown:slowbronite"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "lost_lore:slowbrogonite"
+  }
+}

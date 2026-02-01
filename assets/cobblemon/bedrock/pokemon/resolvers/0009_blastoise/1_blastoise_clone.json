@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["clone"],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone.png"
+    },
+    {
+      "aspects": ["clone", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_shiny.png"
+    },
+    {
+      "aspects": ["clone", "cosmetic_item-black_glasses"],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_triangleglasses.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["clone", "cosmetic_item-wise_glasses"],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_circleglasses.png"
+        }
+      ]
+    }
+  ]
+}

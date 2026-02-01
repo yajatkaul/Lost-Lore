@@ -1,0 +1,71 @@
+{
+  "species": "cobblemon:onix",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "crystal"
+      ],
+      "poser": "cobblemon:onix",
+      "model": "cobblemon:onix.geo",
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_translucent_shiny.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny",
+        "shinier"
+      ],
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_shinier_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny",
+        "shiniest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_shiniest.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_shiniest_translucent.png",
+          "translucent": true
+        },
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_shiniest_emissive.png",
+          "translucent": true,
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

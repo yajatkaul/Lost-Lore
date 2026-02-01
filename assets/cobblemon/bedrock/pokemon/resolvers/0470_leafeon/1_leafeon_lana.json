@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:leafeon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:leafeon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0470_leafeon/leafeon_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0470_leafeon/leafeon_lana_shiny.png"
+    }
+  ]
+}

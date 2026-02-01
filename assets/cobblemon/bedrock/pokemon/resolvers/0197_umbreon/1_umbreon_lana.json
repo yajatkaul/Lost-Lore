@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:umbreon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:umbreon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0197_umbreon/umbreon_lana.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0197_umbreon/umbreon_lana_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0197_umbreon/umbreon_lana_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0197_umbreon/umbreon_lana_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

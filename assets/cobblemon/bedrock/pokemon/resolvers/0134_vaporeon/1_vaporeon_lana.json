@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:vaporeon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:vaporeon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0134_vaporeon/vaporeon_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0134_vaporeon/vaporeon_lana_shiny.png"
+    }
+  ]
+}

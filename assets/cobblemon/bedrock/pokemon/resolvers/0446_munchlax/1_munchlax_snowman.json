@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:munchlax",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["snowman"],
+      "poser": "cobblemon:munchlax",
+      "model": "cobblemon:munchlax.geo",
+      "texture": "cobblemon:textures/pokemon/0446_munchlax/munchlax_snowman.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "snowman",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0446_munchlax/munchlax_snowman_shiny.png"
+    }
+  ]
+}

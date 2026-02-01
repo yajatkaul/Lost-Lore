@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:glaceon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:glaceon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0471_glaceon/glaceon_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0471_glaceon/glaceon_lana_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "portraitScale": 1.45,
+  "portraitTranslation": [-1.61, 3.12, 0.0],
+  "profileScale": 0.33,
+  "profileTranslation": [0.02, 1.31, 0.0],
+  "rootBone": "mt",
+  "animations": {
+    "cry": "q.bedrock_stateful('mt', 'cry')",
+    "physical": "q.bedrock_primary('mt', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('mt', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('mt', 'special', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('mt', 'mouth_open')"
+      ]
+    },
+    "profile": {
+      "poseTypes": ["PROFILE"],
+      "isBattle": false,
+      "isTouchingWater": false,
+      "animations": [
+        "q.bedrock('mt', 'ground_idle')"
+      ]
+    },
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head_rotation')", 
+        "q.bedrock('mt', 'ground_idle')"
+      ]
+    },
+    "standing": {
+      "poseName": "standing",
+      "poseTypes": ["STAND", "FLOAT", "NONE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head_rotation')",
+        "q.bedrock('mt', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head_rotation')",
+        "q.bedrock('mt', 'ground_walk')"
+      ]
+    }
+  }
+}

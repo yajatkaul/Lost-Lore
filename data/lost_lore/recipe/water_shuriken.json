@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " w ",
+    "wdw",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "tag": "c:ingots/iron"
+    },
+    "d": {
+      "item": "cobblemon:water_gem"
+    }
+  },
+  "result": {
+    "id": "lost_lore:water_shuriken"
+  }
+}

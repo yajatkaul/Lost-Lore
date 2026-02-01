@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s s",
+    "sms",
+    "sns"
+  ],
+  "key": {
+    "s": {
+      "item": "mega_showdown:steel_tera_shard"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "m": {
+      "item": "cobblemon:metal_coat"
+    }
+  },
+  "result": {
+    "id": "lost_lore:binding_armor"
+  }
+}

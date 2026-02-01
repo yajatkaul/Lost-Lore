@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:squirtle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["clone"],
+      "poser": "cobblemon:squirtle",
+      "model": "cobblemon:squirtle.geo",
+      "texture": "cobblemon:textures/pokemon/0007_squirtle/squirtle_clone.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "clone"],
+      "texture": "cobblemon:textures/pokemon/0007_squirtle/squirtle_clone_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:kecleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["pmd"],
+      "texture": "cobblemon:textures/pokemon/0352_kecleon/kecleon_pmd.png"
+    },
+    {
+      "aspects": [
+        "pmd",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0352_kecleon/kecleon_pmd_shiny.png"
+    },
+    {
+      "aspects": ["reddy"],
+      "texture": "cobblemon:textures/pokemon/0352_kecleon/kecleon_reddy.png"
+    },
+    {
+      "aspects": [
+        "reddy",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0352_kecleon/kecleon_reddy_shiny.png"
+    }
+  ]
+}

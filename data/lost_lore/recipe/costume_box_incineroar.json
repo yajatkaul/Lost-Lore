@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "acb",
+    "www"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:red_dye"
+    },
+    "a": {
+      "item": "cobblemon:fire_gem"
+    },
+    "c": {
+      "tag": "cobblemon:gilded_chests"
+    },
+    "b": {
+      "item": "cobblemon:dark_gem"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "lost_lore:costume_box_incineroar"
+  }
+}

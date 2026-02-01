@@ -1,0 +1,9 @@
+{
+  "pokemon": ["riolu", "lucario"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "lost_lore:red_scarf",
+      "aspects": ["cosmetic_item-red_scarf"]
+    }
+  ]
+}

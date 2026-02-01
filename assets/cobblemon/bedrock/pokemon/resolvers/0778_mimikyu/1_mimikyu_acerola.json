@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:mimikyu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+		"acerola",
+		"disguised-form"
+	  ],
+      "poser": "cobblemon:mimikyu",
+      "model": "cobblemon:mimikyu_acerola.geo",
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_acerola.png"
+    },
+    {
+      "aspects": [
+		"shiny",
+		"acerola",
+		"disguised-form"
+	  ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_acerola_shiny.png"
+    },
+	{
+      "aspects": [
+        "busted-form",
+		"acerola"
+      ],
+      "poser": "cobblemon:mimikyu",
+      "model": "cobblemon:mimikyu_acerola_busted.geo",
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_acerola.png"
+    },
+    {
+      "aspects": [
+        "busted-form",
+		"acerola",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_acerola_shiny.png"
+    }
+  ]
+}

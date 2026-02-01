@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "cobblemon:silk_scarf"
+    },
+    {
+      "item": "cobblemon:red_mint_leaf"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "id": "lost_lore:red_scarf"
+  }
+}

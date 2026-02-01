@@ -1,0 +1,66 @@
+{
+  "species": "cobblemon:steelix",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "crystal"
+      ],
+      "poser": "cobblemon:steelix_crystal",
+      "model": "cobblemon:steelix_crystal_male.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal_shiny_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "female"
+      ],
+      "poser": "cobblemon:steelix_crystal",
+      "model": "cobblemon:steelix_crystal_female.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal_translucent.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "crystal",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0208_steelix/crystal/steelix_crystal_shiny_translucent.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

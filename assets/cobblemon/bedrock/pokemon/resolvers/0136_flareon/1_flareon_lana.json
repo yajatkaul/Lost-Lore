@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:flareon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:flareon_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0136_flareon/flareon_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0136_flareon/flareon_lana_shiny.png"
+    }
+  ]
+}

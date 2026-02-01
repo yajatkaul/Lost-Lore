@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:eevee",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-lana"],
+      "model": "cobblemon:eevee_lana.geo",
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana.png"
+    },
+    {
+      "aspects": ["shiny","cosmetic_item-lana"],
+      "texture": "cobblemon:textures/pokemon/0133_eevee/eevee_lana_shiny.png"
+    }
+  ]
+}

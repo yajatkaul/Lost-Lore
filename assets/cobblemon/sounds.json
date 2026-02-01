@@ -1,0 +1,10 @@
+{
+  "pokemon.mt.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/mt_cry",
+        "volume": 1.5
+      }
+    ]
+  }
+}

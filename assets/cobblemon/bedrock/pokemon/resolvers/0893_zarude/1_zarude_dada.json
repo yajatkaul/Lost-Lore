@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:zarude",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["dada-cape"],
+      "model": "cobblemon:zarude_dada.geo",
+      "texture": "cobblemon:textures/pokemon/0893_zarude/zarude_dada.png"
+     },
+     {
+      "aspects": [
+        "dada-cape",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0893_zarude/zarude_dada_shiny.png"
+     }
+  ]
+}

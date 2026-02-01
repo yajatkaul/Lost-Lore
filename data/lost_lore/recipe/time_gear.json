@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "cac",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "mega_showdown:adamant_orb"
+    },
+    "c": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "lost_lore:time_gear"
+  }
+}
