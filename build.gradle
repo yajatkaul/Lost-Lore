@@ -108,7 +108,7 @@ publishMods {
         requires("accessories")
         requires("architectury-api")
         requires("owo-lib")
-        requires("mega_showdown")
+        requires("cobblemon-mega-showdown")
     }
     modrinth("modrinthNeoForge") {
         from mrOptions
@@ -118,7 +118,7 @@ publishMods {
         requires("accessories")
         requires("architectury-api")
         requires("owo-lib")
-        requires("mega_showdown")
+        requires("cobblemon-mega-showdown")
     }
 }
 
