@@ -39,12 +39,11 @@
   "depends": {
     "minecraft": "~1.21.1",
     "java": ">=21",
-    "cobblemon": ">=1.7.3",
-    "mega_showdown": ">=1.9.3+1.7.3+1.21.1"
+    "cobblemon": ">=1.8.0",
+    "mega_showdown": ">=1.0.2+1.8+1.21.1-release"
   },
   "recommends": {},
   "breaks": {
-    "mr_lasers_additions": "*",
     "mr_cobblemon_journeymounts": "*"
   },
   "custom": {

@@ -1,4 +1,5 @@
 # Changelog v3.1.0
+## Updated for Cobblemon 1.8+ & Mega Showdown 1.0.2+
 ## Added Ange FLoette!
 - The iconic final boss from Legends ZAs story
 - Ported over and reworked from Navas _(since it got removed)_
@@ -8,9 +9,9 @@
 - More information on Ange can be found on the Lost Lore mod page
 - Full Credit to the entire [Navas ZA Megas](https://modrinth.com/datapack/navas-zamega) Team for all assets!
 ## Some updates to Armored/Shadow Mewtwo:
-- Added physical & status animations
-- Updated faint & special animations
 - Updated shiny Shadow eye colors
+- Updated faint & special animations
+- Added physical & status animations
 - Changed order of Mewtwos forms in the Pokedex 
   - It's now Base -> Shadow -> Armored -> X -> Shadow X -> Y -> Shadow Y
   - Instead of Base -> X -> Y -> Armored -> Shadow -> Shadow X -> Shadow Y

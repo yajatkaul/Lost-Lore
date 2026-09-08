@@ -33,7 +33,7 @@ side = "BOTH"
 modId = "cobblemon"
 type = "required"
 reason = "You're missing like the most important mod for this to work. Install/Update it!"
-versionRange = "[1.7.3, )"
+versionRange = "[1.8.0, )"
 ordering = "AFTER"
 side = "BOTH"
 
@@ -41,7 +41,7 @@ side = "BOTH"
 modId = "mega_showdown"
 type = "required"
 reason = "You're missing like the second most important mod for this to work. Install/Update it!"
-versionRange = "[1.9.3+1.7.3+1.21.1,)"
+versionRange = "[1.0.2+1.8+1.21.1-release,)"
 ordering = "AFTER"
 side = "BOTH"
 
@@ -53,13 +53,6 @@ reason = "Sadly JourneyMounts breaks stuff including Mewtwo, Lugia, Lucario amon
 ordering = "AFTER"
 side = "BOTH"
 
-[[dependencies.lost_lore]]
-modId = "mr_lasers_additions"
-type = "incompatible"
-versionRange = "*"
-reason = "Sadly breaks Shadow Megas abilities!"
-ordering = "AFTER"
-side = "BOTH"
 
 [[mixins]]
 config = "lost_lore.mixins.json"

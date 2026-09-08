@@ -7,12 +7,9 @@
 - Add recipe for Light of Life - maybe?
 - Crystal Gem js is cystal gem still - look into overflow
 - ~~Update Mewtwo~~
-
-
-## For 1.8:
-- Check if Tyranitar needs update
-- Check if Crystal Steelix needs update
+- Update Venusaur & Blastoise megas to account for the new MSD models
 - Wait for Yajats commit for the Type Gem blocks and buds
+- Fix `firstPersonCameraOffset` for forms & fix Starmobiles
 
 
 ## Pokémon additions:
@@ -26,4 +23,3 @@
 
 ## Low Prio or unfixable:
 - ~~Ask Beezy for permission to use the Pokopia models~~ wait for an answer
-- Wait for Cobblemon to fix `firstPersonCameraOffset` for forms & fix Starmobiles
